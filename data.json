@@ -1,1362 +1,2683 @@
 [
-  {
-    "text": "Oświetlenie na skrzyżowaniu ulic Rycerskiej i Górnej nie działa od 3 dni.",
-    "nonsense": 0
-  },
-  {
-    "text": "Chodnik przy parku miejskim jest uszkodzony, co stanowi zagrożenie dla pieszych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Przystanek autobusowy na ulicy Leśnej nie ma dachu, co sprawia, że pasażerowie są narażeni na deszcz.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony most na rzece Sprawnej prowadzi do utrudnień w ruchu drogowym.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z kanalizacją na ulicy Wolności - ulica zalana, konieczne pilne naprawy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Wodociągi na terenie dzielnicy Wilanów nie dostarczają wody od godziny 8 rano.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie osuwiskiem ziemi w rejonie Lasu Miejskiego, konieczne działania prewencyjne.",
-    "nonsense": 0
-  },
-  {
-    "text": "Park nieczynny z powodu awarii systemu nawadniania, trawa zaczyna więdnieć.",
-    "nonsense": 0
-  },
-  {
-    "text": "Przewrócone drzewo na skrzyżowaniu Bloomsbury i Harlow, blokada ruchu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Awaria oświetlenia w miejscowym skate parku - młodzież nie może korzystać po zmroku.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie pożarowe w rejonie lasu miejskiego, konieczne zwiększenie patroli straży leśnej.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona latarnia na ulicy Górnej, konieczne naprawy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie osuwiskiem ziemi w rejonie Lasu Miejskiego, konieczne działania prewencyjne.",
-    "nonsense": 0
-  },
-  {
-    "text": "Park nieczynny z powodu awarii systemu nawadniania, trawa zaczyna więdnieć.",
-    "nonsense": 0
-  },
-  {
-    "text": "Przewrócone drzewo na skrzyżowaniu Bloomsbury i Harlow, blokada ruchu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Awaria oświetlenia w miejscowym skate parku - młodzież nie może korzystać po zmroku.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie pożarowe w rejonie lasu miejskiego, konieczne zwiększenie patroli straży leśnej.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona latarnia na ulicy Górnej, konieczne naprawy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie osuwiskiem ziemi w rejonie Lasu Miejskiego, konieczne działania prewencyjne.",
-    "nonsense": 0
-  },
-  {
-    "text": "Park nieczynny z powodu awarii systemu nawadniania, trawa zaczyna więdnieć.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na przejściu dla pieszych na ulicy Żwirki i Wigury. Utrudniona widoczność dla pieszych, szczególnie w godzinach wieczornych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona nawierzchnia chodnika na ulicy Grójeckiej. Utrudnienia dla pieszych, a także ryzyko potknięcia się i upadku.",
-    "nonsense": 0
-  },
-  {
-    "text": "Plaga komarów w rejonie osiedla Ursynów. Uciążliwość dla mieszkańców, a także ryzyko chorób odkleszczowych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak miejsc parkingowych dla osób niepełnosprawnych w centrum miasta. Utrudniony dostęp do sklepów i innych instytucji.",
-    "nonsense": 0
-  },
-  {
-    "text": "Hałas generowany przez lokalny klub nocny. Utrudnienia w zasypianiu dla mieszkańców okolicznych budynków.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zanieczyszczenie powietrza w rejonie ulicy Puławskiej. Duże stężenie szkodliwych pyłów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dostępem do Internetu w bibliotece miejskiej. Utrudnienia w korzystaniu z komputerów i innych urządzeń.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak kursów autobusowych na linii 115 od popołudnia. Utrudnienia w komunikacji dla mieszkańców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona wiata przystankowa na ulicy Spacerowej. Brak ochrony przed deszczem i wiatrem dla pasażerów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Wandalizm na placu zabaw dla dzieci. Zniszczone urządzenia zabawowe i ławki.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie wypadkiem na skrzyżowaniu ulic Batorego i Mickiewicza. Brak sygnalizacji świetlnej.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak barierek ochronnych przy schodach do metra Politechnika. Ryzyko upadku dla osób starszych i niepełnosprawnych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zanieczyszczenie rzeki Wisły. Śmieci i inne zanieczyszczenia w wodzie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z odprowadzaniem wody deszczowej na ulicy Służewskiej. Podtopienia okolicznych terenów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak informacji o rozkładzie jazdy na przystanku tramwajowym. Utrudnienia dla pasażerów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie pożarowe w rejonie lasu Kabackiego. Susza i wysoka temperatura powietrza.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona nawierzchnia jezdni na ulicy Puławskiej. Utrudnienia w ruchu drogowym.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak miejsc parkingowych w rejonie centrum handlowego. Utrudnienia dla klientów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dostępem do Internetu w urzędzie miasta. Utrudnienia w załatwianiu spraw urzędowych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Hałas generowany przez lokalny bar. Uciążliwość dla mieszkańców okolicznych budynków.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczone ławki w parku im. Jana Pawła II. Brak miejsc do siedzenia dla mieszkańców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zablokowana ścieżka rowerowa na ulicy Filtrowej przez zaparkowane samochody.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczone kosze na śmieci w parku Skaryszewskim. Problem z zaśmiecaniem parku.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dostępem do wody pitnej w szkole podstawowej nr 10. Awaria dystrybutora wody.",
-    "nonsense": 0
-  },
-  {
-    "text": "Hałas generowany przez prace budowlane w godzinach nocnych na ulicy Mokotowskiej.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie bezpieczeństwa na plaży nad Wisłą. Brak ratowników wodnych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Występowanie graffiti na zabytkowym budynku w centrum miasta. Zniszczenie mienia publicznego.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z łącznością telefoniczną w rejonie osiedla Włochy. Utrudnienia w komunikacji dla mieszkańców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Przepełnione kosze na śmieci na przystankach autobusowych. Brak regularnego opróżniania.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczone ogrodzenie boiska szkolnego. Ryzyko wtargnięcia osób nieupoważnionych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z sygnalizacją świetlną na skrzyżowaniu ulic Marszałkowskiej i Alej Jerozolimskich. Utrudnienia w ruchu drogowym.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak miejsc parkingowych dla rowerów w pobliżu stacji metra Ratusz. Utrudnienia dla rowerzystów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zanieczyszczenie powietrza spalinami samochodowymi w rejonie ulicy Żwirki i Wigury. Przekraczanie norm zanieczyszczenia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dostępem do Internetu w przychodni zdrowia. Utrudnienia w korzystaniu z e-recept.",
-    "nonsense": 0
-  },
-  {
-    "text": "Hałas generowany przez lokalny dworzec PKS. Uciążliwość dla mieszkańców okolicznych budynków.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczone lampy uliczne w parku im. Pole Mokotowskie. Brak oświetlenia w godzinach wieczornych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak dostępu do toalet publicznych w centrum miasta. Utrudnienia dla turystów i mieszkańców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zaginął pies rasy golden retriever w rejonie Lasu Bielańskiego. Prośba o pomoc w odnalezieniu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z odśnieżaniem chodników w rejonie osiedla Młociny. Utrudnienia dla pieszych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczone znaki drogowe na ulicy Wojska Polskiego. Utrudnienia w orientacji dla kierowców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dostępem do Internetu w bibliotece publicznej. Utrudnienia w korzystaniu z e-booków.",
-    "nonsense": 0
-  },
-  {
-    "text": "Hałas generowany przez lokalną dyskotekę. Uciążliwość dla mieszkańców okolicznych budynków.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczone wyposażenie placu zabaw dla dzieci w parku im. Stefana Żeromskiego. Brak bezpieczeństwa dla dzieci.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne związane z plagą szczurów w rejonie ulicy Grochowskiej.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dzikami w rejonie osiedla Wilanów. Zwierzęta niszczą ogródki i stanowią zagrożenie dla mieszkańców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zanieczyszczenie powietrza w rejonie ulicy Puławskiej. Duże stężenie szkodliwych pyłów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dostępem do Internetu w bibliotece miejskiej. Utrudnienia w korzystaniu z komputerów i innych urządzeń.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak kursów autobusowych na linii 115 od popołudnia. Utrudnienia w komunikacji dla mieszkańców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona wiata przystankowa na ulicy Spacerowej. Brak ochrony przed deszczem i wiatrem dla pasażerów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Wandalizm na placu zabaw dla dzieci. Zniszczone urządzenia zabawowe i ławki.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie wypadkiem na skrzyżowaniu ulic Batorego i Mickiewicza. Brak sygnalizacji świetlnej.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak barierek ochronnych przy schodach do metra Politechnika. Ryzyko upadku dla osób starszych i niepełnosprawnych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zanieczyszczenie rzeki Wisły. Śmieci i inne zanieczyszczenia w wodzie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z odprowadzaniem wody deszczowej na ulicy Służewskiej. Podtopienia okolicznych terenów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak informacji o rozkładzie jazdy na przystanku tramwajowym. Utrudnienia dla pasażerów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie pożarowe w rejonie lasu Kabackiego. Susza i wysoka temperatura powietrza.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona nawierzchnia jezdni na ulicy Puławskiej. Utrudnienia w ruchu drogowym.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak miejsc parkingowych w rejonie centrum handlowego. Utrudnienia dla klientów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dostępem do Internetu w urzędzie miasta. Utrudnienia w załatwianiu spraw urzędowych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Hałas generowany przez lokalny bar. Uciążliwość dla mieszkańców okolicznych budynków.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczone ławki w parku im. Jana Pawła II. Brak miejsc do siedzenia dla mieszkańców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak toalet publicznych w rejonie dworca kolejowego. Utrudnienia dla podróżnych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne związane z plagą komarów w rejonie osiedla Ursynów.",
-    "nonsense": 0
-  },
-  {
-    "text": "Problem z dzikami w rejonie osiedla Wilanów. Zwierzęta niszczą ogródki i stanowią zagrożenie dla mieszkańców.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zanieczyszczenie powietrza w rejonie ulicy Puławskiej. Duże stężenie szkodliwych pyłów.",
-    "nonsense": 0
-  },
-  {
-    "text": "dhafksar gdfsdsae erqwere refewq",
-    "nonsense": 1
-  },
-  {
-    "text": "hjdsflkj fsdfhjkl fsdfhjkllj",
-    "nonsense": 1
-  },
-  {
-    "text": "asjdhf asdfh jkllkjh asdfhjk",
-    "nonsense": 1
-  },
-  {
-    "text": "qwertyuiop asdfghjkl zxcvbnm",
-    "nonsense": 1
-  },
-  {
-    "text": "sdfhjkl sdfhjkl sdfhjkl sdfhjkl",
-    "nonsense": 1
-  },
-  {
-    "text": "fghjkl; fghjkl; fghjkl; fghjkl;",
-    "nonsense": 1
-  },
-  {
-    "text": "hfdkashf aasdfjklash fkasjdhflk",
-    "nonsense": 1
-  },
-  {
-    "text": "fdsafdsa fdsafdsa fdsafdsa fdsafdsa",
-    "nonsense": 1
-  },
-  {
-    "text": "sdfhjkl asdfhjkl sdfhjkl asdfhjkl",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewq lkjhgfdsa mnbvcxzasdf",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbnm, qwertyuiop, asdfghjkl;",
-    "nonsense": 1
-  },
-  {
-    "text": "hjklsdf hjasdf hasdfjk hasdfjk",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhjkljhlkjlkhjlh lkjhjklhjlkjhkl",
-    "nonsense": 1
-  },
-  {
-    "text": "ertyuiop ertyuiop ertyuiop ertyuiop",
-    "nonsense": 1
-  },
-  {
-    "text": "fhjkl; fhjkl; fhjkl; fhjkl;",
-    "nonsense": 1
-  },
-  {
-    "text": "lkhjkljlkjhlkjhljkhjlkjh lkjhkjlk",
-    "nonsense": 1
-  },
-  {
-    "text": "ljkasdhf ljasdhf ljaskdhf laskjdhf",
-    "nonsense": 1
-  },
-  {
-    "text": "kjhasdfk jhaskjdfh kajshdf kajshd",
-    "nonsense": 1
-  },
-  {
-    "text": "dsafhjkldasfhjkl asdfhjk asdfhjkl",
-    "nonsense": 1
-  },
-  {
-    "text": "qwertyu qwertyu qwertyu qwertyu",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbnm zxcvbnm zxcvbnm zxcvbnm",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuyt poiuyt poiuyt poiuyt",
-    "nonsense": 1
-  },
-  {
-    "text": "ljkh lkjh lkj lkj",
-    "nonsense": 1
-  },
-  {
-    "text": "hjasdf hjkasdf hjkasdf hjkasdf",
-    "nonsense": 1
-  },
-  {
-    "text": "sdfgh sdfgh sdfgh sdfgh",
-    "nonsense": 1
-  },
-  {
-    "text": "fdsa fdsa fdsa fdsa",
-    "nonsense": 1
-  },
-  {
-    "text": "jkjkl jkjk jkl jkl",
-    "nonsense": 1
-  },
-  {
-    "text": "dfghjk dfghj dfgh dfgh",
-    "nonsense": 1
-  },
-  {
-    "text": "jkl; jkl; jkl; jkl;",
-    "nonsense": 1
-  },
-  {
-    "text": "sdfghjkl sdfghjkl sdfghjkl sdfghjkl",
-    "nonsense": 1
-  },
-  {
-    "text": "qwertyuiop qwertyuiop qwertyuiop qwertyuiop",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbnm, zxcvbnm, zxcvbnm, zxcvbnm,",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewq, poiuytrewq, poiuytrewq, poiuytrewq,",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsa, lkjhgfdsa, lkjhgfdsa, lkjhgfdsa,",
-    "nonsense": 1
-  },
-  {
-    "text": "asdfghjkl, asdfghjkl, asdfghjkl, asdfghjkl,",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhlkjhlkjh lkjhkljh lkjhkljhlk",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewq poiuytrewq poiuytrewq poiuytrewq",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsa lkjhgfdsa lkjhgfdsa lkjhgfdsa",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbnm zxcvbnm zxcvbnm zxcvbnm",
-    "nonsense": 1
-  },
-  {
-    "text": "qazwsx qazwsx qazwsx qazwsx",
-    "nonsense": 1
-  },
-  {
-    "text": "edcrfv edcrfv edcrfv edcrfv",
-    "nonsense": 1
-  },
-  {
-    "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
-    "nonsense": 1
-  },
-  {
-    "text": "ujmik, ujmik, ujmik, ujmik,",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
-    "nonsense": 1
-  },
-  {
-    "text": "dfghj dfghj dfghj dfghj",
-    "nonsense": 1
-  },
-  {
-    "text": "kljhlkjh kljhkljhl kjhkljhlk",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuyt poiuyt poiuyt poiuyt",
-    "nonsense": 1
-  },
-  {
-    "text": "qazwsx qazwsx qazwsx qazwsx",
-    "nonsense": 1
-  },
-  {
-    "text": "edcrfv edcrfv edcrfv edcrfv",
-    "nonsense": 1
-  },
-  {
-    "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
-    "nonsense": 1
-  },
-  {
-    "text": "ujmik, ujmik, ujmik, ujmik,",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
-    "nonsense": 1
-  },
-  {
-    "text": "dfghj dfghj dfghj dfghj",
-    "nonsense": 1
-  },
-  {
-    "text": "kljhlkjh kljhkljhl kjhkljhlk",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuyt poiuyt poiuyt poiuyt",
-    "nonsense": 1
-  },
-  {
-    "text": "qazwsx qazwsx qazwsx qazwsx",
-    "nonsense": 1
-  },
-  {
-    "text": "edcrfv edcrfv edcrfv edcrfv",
-    "nonsense": 1
-  },
-  {
-    "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
-    "nonsense": 1
-  },
-  {
-    "text": "ujmik, ujmik, ujmik, ujmik,",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
-    "nonsense": 1
-  },
-  {
-    "text": "dfghj dfghj dfghj dfghj",
-    "nonsense": 1
-  },
-  {
-    "text": "kljhlkjh kljhkljhl kjhkljhlk",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuyt poiuyt poiuyt poiuyt",
-    "nonsense": 1
-  },
-  {
-    "text": "qazwsx qazwsx qazwsx qazwsx",
-    "nonsense": 1
-  },
-  {
-    "text": "edcrfv edcrfv edcrfv edcrfv",
-    "nonsense": 1
-  },
-  {
-    "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
-    "nonsense": 1
-  },
-  {
-    "text": "ujmik, ujmik, ujmik, ujmik,",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
-    "nonsense": 1
-  },
-  {
-    "text": "dfghj dfghj dfghj dfghj",
-    "nonsense": 1
-  },
-  {
-    "text": "kljhlkjh kljhkljhl kjhkljhlk",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuyt poiuyt poiuyt poiuyt",
-    "nonsense": 1
-  },
-  {
-    "text": "qazwsx qazwsx qazwsx qazwsx",
-    "nonsense": 1
-  },
-  {
-    "text": "edcrfv edcrfv edcrfv edcrfv",
-    "nonsense": 1
-  },
-  {
-    "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
-    "nonsense": 1
-  },
-  {
-    "text": "ujmik, ujmik, ujmik, ujmik,",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
-    "nonsense": 1
-  },
-  {
-    "text": "dfghj dfghj dfghj dfghj",
-    "nonsense": 1
-  },
-  {
-    "text": "kljhlkjh kljhkljhl kjhkljhlk",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuyt poiuyt poiuyt poiuyt",
-    "nonsense": 1
-  },
-  {
-    "text": "qazwsx qazwsx qazwsx qazwsx",
-    "nonsense": 1
-  },
-  {
-    "text": "edcrfv edcrfv edcrfv edcrfv",
-    "nonsense": 1
-  },
-  {
-    "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
-    "nonsense": 1
-  },
-  {
-    "text": "ujmik, ujmik, ujmik, ujmik,",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
-    "nonsense": 1
-  },
-  {
-    "text": "dfghj dfghj dfghj dfghj",
-    "nonsense": 1
-  },
-  {
-    "text": "aadd aadd aaad daaa",
-    "nonsense": 1
-  },
-  {
-    "text": "qwert qwert qwert qwert",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvb zxcvb zxcvb zxcvb",
-    "nonsense": 1
-  },
-  {
-    "text": "12345 12345 12345 12345",
-    "nonsense": 1
-  },
-  {
-    "text": "67890 67890 67890 67890",
-    "nonsense": 1
-  },
-  {
-    "text": "qwertyuiop[]qwertyuiop[]",
-    "nonsense": 1
-  },
-  {
-    "text": "asdfghjkl;'asdfghjkl;'",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbnm,./zxcvbnm,./",
-    "nonsense": 1
-  },
-  {
-    "text": "QWERTYUIOP[]QWERTYUIOP[]",
-    "nonsense": 1
-  },
-  {
-    "text": "ASDFGHJKL;'ASDFGHJKL;'",
-    "nonsense": 1
-  },
-  {
-    "text": "ZXCVBNM,./ZXCVBNM,./",
-    "nonsense": 1
-  },
-  {
-    "text": "12345678901234567890",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuYTREWQpoiuYTREWQ",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhGFDSAlkjhGFDSA",
-    "nonsense": 1
-  },
-  {
-    "text": "mnbvcXZLKmnbvcXZLK",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewqpoiuytrewq",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsalkjhgfdsa",
-    "nonsense": 1
-  },
-  {
-    "text": "mnbvcxzlkmnbvcxzlk",
-    "nonsense": 1
-  },
-  {
-    "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-    "nonsense": 1
-  },
-  {
-    "text": "abcdefghijklmnopqrstuvwxyz",
-    "nonsense": 1
-  },
-  {
-    "text": "01234567890123456789",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewqLKJHGFDSAPOIUYTREWQ",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsazxcvbnm;LKJHGFDSAZXCVBNM;",
-    "nonsense": 1
-  },
-  {
-    "text": "mnbvcxzlkjhgfdsapoiuytrewq",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewqLKJHGFDSAPOIUYTREWQ",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsazxcvbnm;LKJHGFDSAZXCVBNM;",
-    "nonsense": 1
-  },
-  {
-    "text": "mnbvcxzlkjhgfdsapoiuytrewq",
-    "nonsense": 1
-  },
-  {
-    "text": "1234567890-=1234567890-=",
-    "nonsense": 1
-  },
-  {
-    "text": "qwertyuiop[]\\qwertyuiop[]\\",
-    "nonsense": 1
-  },
-  {
-    "text": "asdfghjkl;'\\asdfghjkl;'\\",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbnm,./zxcvbnm,./",
-    "nonsense": 1
-  },
-  {
-    "text": "QWERTYUIOP[]\\QWERTYUIOP[]\\",
-    "nonsense": 1
-  },
-  {
-    "text": "ASDFGHJKL;'\\ASDFGHJKL;'\\",
-    "nonsense": 1
-  },
-  {
-    "text": "ZXCVBNM,./ZXCVBNM,./",
-    "nonsense": 1
-  },
-  {
-    "text": "1234567890`1234567890`",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewqpoiuytrewq",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsalkjhgfdsa",
-    "nonsense": 1
-  },
-  {
-    "text": "mnbvcxzlkmnbvcxzlk",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewqpoiuytrewq",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsalkjhgfdsa",
-    "nonsense": 1
-  },
-  {
-    "text": "mnbvcxzlk",
-    "nonsense": 1
-  },
-  {
-    "text": "!@#$%^&*()_+=-!@#$%^&*()_+=-",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewqLKJHGFDSAPOIUYTREWQ",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsazxcvbnm;LKJHGFDSAZXCVBNM;",
-    "nonsense": 1
-  },
-  {
-    "text": "mnbvcxzlkjhgfdsapoiuytrewq",
-    "nonsense": 1
-  },
-  {
-    "text": "poiuytrewqLKJHGFDSAPOIUYTREWQ",
-    "nonsense": 1
-  },
-  {
-    "text": "lkjhgfdsazxcvbnm;LKJHGFDSAZXCVBNM;",
-    "nonsense": 1
-  },
-  {
-    "text": "mnbvcxzlkjhgfdsapoiuytrewq",
-    "nonsense": 1
-  },
-  {
-    "text": "!@#$%^&*()_+=-!@#$%^&*()_+=-",
-    "nonsense": 1
-  },
-  {
-    "text": "1234567890-=1234567890-=",
-    "nonsense": 1
-  },
-  {
-    "text": "qwertyuiop[]\\qwertyuiop[]\\",
-    "nonsense": 1
-  },
-  {
-    "text": "asdfghjkl;'\\asdfghjkl;'\\",
-    "nonsense": 1
-  },
-  {
-    "text": "zxcvbnm,./zxcvbnm,./",
-    "nonsense": 1
-  },
-  {
-    "text": "QWERTYUIOP[]\\QWERTYUIOP[]\\",
-    "nonsense": 1
-  },
-  {
-    "text": "ASDFGHJKL;'\\ASDFGHJKL;'\\",
-    "nonsense": 1
-  },
-  {
-    "text": "ZXCVBNM,./ZXCVBNM,./",
-    "nonsense": 1
-  },
-  {
-    "text": "1234567890`1234567890`",
-    "nonsense": 1
-  },
-  {
-    "text": "Brak oświetlenia na skrzyżowaniu ulic Dworcowej i Spacerowej od 2 dni.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona nawierzchnia chodnika przy ulicy Parkowej stwarza zagrożenie dla pieszych.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak wiaty na przystanku autobusowym przy ulicy Spokojnej naraża pasażerów na niekorzystne warunki atmosferyczne.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona barierka ochronna na moście nad rzeką Brda stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zatoka autobusowa przy ulicy Mickiewicza jest zanieczyszczona i wymaga sprzątania.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak wody w kranach w budynkach przy ulicy Klonowej od godziny 10 rano.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie wyciekiem gazu w budynku przy ulicy Sienkiewicza - wyczuwalny zapach gazu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona ławka parkowa w parku im. Jana Pawła II wymaga naprawy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Połamane gałęzie na drzewach przy ulicy Słowackiego stwarzają zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Awaria oświetlenia ulicznego na osiedlu Leśnym - ulica Grzybowa jest nieoświetlona.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie pożarowe w rejonie ogródków działkowych - widoczny dym i słyszalny szum ognia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta powoduje wyciek ścieków.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oznakowania na skrzyżowaniu ulic Żeromskiego i Konopnickiej stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona tablica informacyjna w parku miejskim wymaga wymiany.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych - wzrost poziomu wody w rzece.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony płot na terenie boiska szkolnego przy ulicy Orzeszkowej stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak koszy na śmieci w parku im. Kościuszki powoduje zaśmiecanie terenu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego wymaga remontu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne w rejonie ulicy Rejtana - wzrost zachorowań na grypę.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona huśtawka na placu zabaw przy ulicy Prusa wymaga naprawy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Mickiewicza stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został trzeci stopień zagrożenia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony parkomat przy ulicy Sienkiewicza uniemożliwia płatny postój.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na ścieżce rowerowej wzdłuż ulicy Spacerowej.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczone kosze na śmieci w parku im. Mickiewicza - śmieci są rozrzucane po terenie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Awaria automatu biletowego na stacji metra Centrum - niemożliwy zakup biletu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Utrudnienia w ruchu drogowym na ulicy Dworcowej - remont nawierzchni.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne w rejonie szkoły podstawowej nr 1 - wzrost zachorowań na grypę.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oznakowania turystycznego na szlaku w rejonie góry Zamkowej.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona elewacja budynku przy ulicy 1 Maja - odpadający tynk stwarza zagrożenie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych - konieczne monitorowanie poziomu wody.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona barierka ochronna na moście nad rzeką Wisłą - konieczne naprawy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak przejścia dla pieszych na ulicy Żeromskiego - utrudniony dostęp do sklepu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie pożarowe w rejonie lasu sosnowego - widoczny dym i słyszalny szum ognia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta - wyciek ścieków powoduje uciążliwości zapachowe.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na parkingu przy ulicy Konopnickiej - utrudniony dostęp do samochodu po zmroku.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona tablica informacyjna przystanku autobusowego - brak informacji o rozkładzie jazdy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne w rejonie domu opieki społecznej - wzrost zachorowań na COVID-19.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony płot na terenie przedszkola przy ulicy Prusa - stwarza zagrożenie dla bezpieczeństwa dzieci.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak koszy na śmieci w parku im. Kościuszki - śmieci są rozrzucane po terenie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego - utrudniony przejazd.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został drugi stopień zagrożenia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Mickiewicza - stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został trzeci stopień zagrożenia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zatrzymany autobus na ulicy Dworcowej blokuje ruch.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oznaczenia przejścia dla pieszych na ulicy Spacerowej stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona nawierzchnia chodnika przy ulicy Parkowej utrudnia poruszanie się pieszym.",
-    "nonsense": 0
-  },
-  {
-    "text": "Awaria windy w bloku przy ulicy Mickiewicza utrudnia życie osobom starszym i niepełnosprawnym.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne w rejonie szpitala - wzrost zachorowań na grypę.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oznakowania turystycznego na szlaku w rejonie góry Zamkowej utrudnia wędrówki.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona elewacja budynku przy ulicy 1 Maja - odpadający tynk stwarza zagrożenie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych - konieczne monitorowanie poziomu wody.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona barierka ochronna na moście nad rzeką Wisłą - konieczne naprawy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak przejścia dla pieszych na ulicy Żeromskiego - utrudniony dostęp do sklepu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie pożarowe w rejonie lasu sosnowego - widoczny dym i słyszalny szum ognia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta - wyciek ścieków powoduje uciążliwości zapachowe.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na parkingu przy ulicy Konopnickiej - utrudniony dostęp do samochodu po zmroku.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona tablica informacyjna przystanku autobusowego - brak informacji o rozkładzie jazdy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne w rejonie domu opieki społecznej - wzrost zachorowań na COVID-19.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony płot na terenie przedszkola przy ulicy Prusa - stwarza zagrożenie dla bezpieczeństwa dzieci.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak koszy na śmieci w parku im. Kościuszki - śmieci są rozrzucane po terenie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego - utrudniony przejazd.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został drugi stopień zagrożenia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Mickiewicza - stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został trzeci stopień zagrożenia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
-    "nonsense": 0
-  },
-   {
-    "text": "Zatrzymany autobus na ulicy Dworcowej blokuje ruch.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oznaczenia przejścia dla pieszych na ulicy Spacerowej stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona nawierzchnia chodnika przy ulicy Parkowej utrudnia poruszanie się pieszym.",
-    "nonsense": 0
-  },
-  {
-    "text": "Awaria windy w bloku przy ulicy Mickiewicza utrudnia życie osobom starszym i niepełnosprawnym.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne w rejonie szpitala - wzrost zachorowań na grypę.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oznakowania turystycznego na szlaku w rejonie góry Zamkowej utrudnia wędrówki.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona elewacja budynku przy ulicy 1 Maja - odpadający tynk stwarza zagrożenie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych - konieczne monitorowanie poziomu wody.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona barierka ochronna na moście nad rzeką Wisłą - konieczne naprawy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak przejścia dla pieszych na ulicy Żeromskiego - utrudniony dostęp do sklepu.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie pożarowe w rejonie lasu sosnowego - widoczny dym i słyszalny szum ognia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta - wyciek ścieków powoduje uciążliwości zapachowe.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na parkingu przy ulicy Konopnickiej - utrudniony dostęp do samochodu po zmroku.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona tablica informacyjna przystanku autobusowego - brak informacji o rozkładzie jazdy.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie epidemiologiczne w rejonie domu opieki społecznej - wzrost zachorowań na COVID-19.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony płot na terenie przedszkola przy ulicy Prusa - stwarza zagrożenie dla bezpieczeństwa dzieci.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak koszy na śmieci w parku im. Kościuszki - śmieci są rozrzucane po terenie.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego - utrudniony przejazd.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został drugi stopień zagrożenia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
-    "nonsense": 0
-  },
-  {
-    "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Mickiewicza - stwarza zagrożenie dla bezpieczeństwa.",
-    "nonsense": 0
-  },
-  {
-    "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został trzeci stopień zagrożenia.",
-    "nonsense": 0
-  },
-  {
-    "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
-    "nonsense": 0
-  },
-   { "text": "Popsuta ławka", "nonsense": 0 },
-  { "text": "Zgasła latarnia", "nonsense": 0 },
-  { "text": "Dziura w chodniku", "nonsense": 0 },
-  { "text": "Wyciek z hydrantu", "nonsense": 0 },
-  { "text": "Zniszczona wiata", "nonsense": 0 },
-  { "text": "Uszkodzony kosz", "nonsense": 0 },
-  { "text": "Brak barierek", "nonsense": 0 },
-  { "text": "Wandalizm na placu zabaw", "nonsense": 0 },
-  { "text": "Popsuta huśtawka", "nonsense": 0 },
-  { "text": "Zniszczona zjeżdżalnia", "nonsense": 0 },
-  { "text": "Utrudniony przejazd", "nonsense": 0 },
-  { "text": "Zagrożenie potrącenia", "nonsense": 0 },
-  { "text": "Ryzyko upadku", "nonsense": 0 },
-  { "text": "Zagrożenie pożarowe", "nonsense": 0 },
-  { "text": "Zagrożenie epidemiologiczne", "nonsense": 0 },
-  { "text": "Plaga komarów", "nonsense": 0 },
-  { "text": "Wściekły pies", "nonsense": 0 },
-  { "text": "Wystąpienie dzików", "nonsense": 0 },
-  { "text": "Zagrożenie osuwiskiem", "nonsense": 0 },
-  { "text": "Zaniedbana studzienka", "nonsense": 0 },
-  { "text": "Brak autobusu", "nonsense": 0 },
-  { "text": "Opóźnienie pociągu", "nonsense": 0 },
-  { "text": "Awaria windy", "nonsense": 0 },
-  { "text": "Brak oznakowania", "nonsense": 0 },
-  { "text": "Zniszczony znak", "nonsense": 0 },
-  { "text": "Problem z biletem", "nonsense": 0 },
-  { "text": "Brak informacji", "nonsense": 0 },
-  { "text": "Hałas z lokalu", "nonsense": 0 },
-  { "text": "Brak internetu", "nonsense": 0 },
-  { "text": "Zakłócenia prądu", "nonsense": 0 },
-  { "text": "Brak miejsc parkingowych", "nonsense": 0 },
-  { "text": "Problem z wywozem śmieci", "nonsense": 0 },
-  { "text": "Zanieczyszczenie powietrza", "nonsense": 0 },
-  { "text": "Zniszczona fontanna", "nonsense": 0 },
-  { "text": "Brak toalet publicznych", "nonsense": 0 },
-  { "text": "Wypadający śmietnik", "nonsense": 0 },
-  { "text": "Zgubiona torebka", "nonsense": 0 },
-  { "text": "Rozlany olej", "nonsense": 0 },
-  { "text": "Pomoc dla bezdomnego", "nonsense": 0 },
-  { "text": "Nlegalne wysypisko", "nonsense": 0 },
-  { "text": "Wyciek gazu", "nonsense": 0 },
-  { "text": "Zalana piwnica", "nonsense": 0 },
-  { "text": "Zagrożenie powodziowe", "nonsense": 0 },
-  { "text": "Zniszczona elewacja", "nonsense": 0 },
-  { "text": "Brak wody", "nonsense": 0 },
-  { "text": "Problem z ogrzewaniem", "nonsense": 0 },
-  { "text": "Awaria sygnalizacji", "nonsense": 0 },
-  { "text": "Zniszczone ogrodzenie", "nonsense": 0 },
-  { "text": "Brak oświetlenia schodów", "nonsense": 0 },
-  { "text": "Brak dostępu do apteki", "nonsense": 0 },
-  { "text": "Brak kursów autobusu linii 115 od popołudnia.", "nonsense": 0 },
-  { "text": "Zniszczona wiata przystankowa na ulicy Spacerowej.", "nonsense": 0 },
-  { "text": "Wandalizm na placu zabaw dla dzieci.", "nonsense": 0 },
-  { "text": "Zagrożenie wypadkiem na skrzyżowaniu ulic Batorego i Mickiewicza.", "nonsense": 0 },
-  { "text": "Brak barierek ochronnych przy schodach do metra Politechnika.", "nonsense": 0 },
-  { "text": "Zanieczyszczenie rzeki Wisły.", "nonsense": 0 },
-  { "text": "Problem z odprowadzaniem wody deszczowej na ulicy Służewskiej.", "nonsense": 0 },
-  { "text": "Brak informacji o rozkładzie jazdy na przystanku tramwajowym.", "nonsense": 0 },
-  { "text": "Zagrożenie pożarowe w rejonie lasu Kabackiego.", "nonsense": 0 },
-  { "text": "Uszkodzona nawierzchnia jezdni na ulicy Puławskiej.", "nonsense": 0 },
-  { "text": "Brak miejsc parkingowych w rejonie centrum handlowego.", "nonsense": 0 },
-  { "text": "Problem z dostępem do internetu w urzędzie miasta.", "nonsense": 0 },
-  { "text": "Utrudnienia w ruchu drogowym - remont ulicy Żwirki i Wigury.", "nonsense": 0 },
-  { "text": "Brak oświetlenia ulicznego na ulicy Długiej - niebezpiecznie w godzinach wieczornych.", "nonsense": 0 },
-  { "text": "Zniszczona nawierzchnia chodnika na ulicy Marszałkowskiej - utrudnienia dla pieszych.", "nonsense": 0 },
-  { "text": "Brak miejsc parkingowych dla osób niepełnosprawnych w centrum miasta.", "nonsense": 0 },
-  { "text": "Hałas generowany przez lokalny klub nocny - uciążliwość dla mieszkańców okolicznych budynków.", "nonsense": 0 },
-  { "text": "Zanieczyszczenie powietrza w rejonie ulicy Grochowskiej.", "nonsense": 0 },
-  { "text": "Problem z dostępem do Internetu w bibliotece publicznej.", "nonsense": 0 },
-  { "text": "Brak kursów autobusowych na linii 115 od popołudnia.", "nonsense": 0 },
-  { "text": "Zniszczona wiata przystankowa na ulicy Spacerowej.", "nonsense": 0 },
-  { "text": "Wandalizm na placu zabaw dla dzieci.", "nonsense": 0 },
-  { "text": "Zagrożenie wypadkiem na skrzyżowaniu ulic Batorego i Mickiewicza.", "nonsense": 0 },
-  { "text": "Brak barierek ochronnych przy schodach do metra Politechnika.", "nonsense": 0 },
-  { "text": "Zanieczyszczenie rzeki Wisły.", "nonsense": 0 },
-  { "text": "Problem z odprowadzaniem wody deszczowej na ulicy Służewskiej.", "nonsense": 0 },
-  { "text": "Brak informacji o rozkładzie jazdy na przystanku tramwajowym.", "nonsense": 0 },
-  { "text": "Zagrożenie pożarowe w rejonie lasu Kabackiego.", "nonsense": 0 },
-  { "text": "Uszkodzona nawierzchnia jezdni na ulicy Puławskiej.", "nonsense": 0 },
-  { "text": "Brak miejsc parkingowych w rejonie centrum handlowego.", "nonsense": 0 },
-  { "text": "Problem z dostępem do internetu w urzędzie miasta.", "nonsense": 0 },
-  { "text": "Utrudnienia w ruchu drogowym - remont ulicy Żwirki i Wigury.", "nonsense": 0 },
-  { "text": "Brak oświetlenia ulicznego na ulicy Długiej - niebezpiecznie w godzinach wieczornych.", "nonsense": 0 },
-  { "text": "Zniszczona nawierzchnia chodnika na ulicy Marszałkowskiej - utrudnienia dla pieszych.", "nonsense": 0 }
+    {
+        "text": "Oświetlenie na skrzyżowaniu ulic Rycerskiej i Górnej nie działa od 3 dni.",
+        "nonsense": 0
+    },
+    {
+        "text": "Chodnik przy parku miejskim jest uszkodzony, co stanowi zagrożenie dla pieszych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Przystanek autobusowy na ulicy Leśnej nie ma dachu, co sprawia, że pasażerowie są narażeni na deszcz.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony most na rzece Sprawnej prowadzi do utrudnień w ruchu drogowym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z kanalizacją na ulicy Wolności - ulica zalana, konieczne pilne naprawy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Wodociągi na terenie dzielnicy Wilanów nie dostarczają wody od godziny 8 rano.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie osuwiskiem ziemi w rejonie Lasu Miejskiego, konieczne działania prewencyjne.",
+        "nonsense": 0
+    },
+    {
+        "text": "Park nieczynny z powodu awarii systemu nawadniania, trawa zaczyna więdnieć.",
+        "nonsense": 0
+    },
+    {
+        "text": "Przewrócone drzewo na skrzyżowaniu Bloomsbury i Harlow, blokada ruchu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria oświetlenia w miejscowym skate parku - młodzież nie może korzystać po zmroku.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu miejskiego, konieczne zwiększenie patroli straży leśnej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona latarnia na ulicy Górnej, konieczne naprawy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie osuwiskiem ziemi w rejonie Lasu Miejskiego, konieczne działania prewencyjne.",
+        "nonsense": 0
+    },
+    {
+        "text": "Park nieczynny z powodu awarii systemu nawadniania, trawa zaczyna więdnieć.",
+        "nonsense": 0
+    },
+    {
+        "text": "Przewrócone drzewo na skrzyżowaniu Bloomsbury i Harlow, blokada ruchu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria oświetlenia w miejscowym skate parku - młodzież nie może korzystać po zmroku.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu miejskiego, konieczne zwiększenie patroli straży leśnej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona latarnia na ulicy Górnej, konieczne naprawy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie osuwiskiem ziemi w rejonie Lasu Miejskiego, konieczne działania prewencyjne.",
+        "nonsense": 0
+    },
+    {
+        "text": "Park nieczynny z powodu awarii systemu nawadniania, trawa zaczyna więdnieć.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na przejściu dla pieszych na ulicy Żwirki i Wigury. Utrudniona widoczność dla pieszych, szczególnie w godzinach wieczornych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia chodnika na ulicy Grójeckiej. Utrudnienia dla pieszych, a także ryzyko potknięcia się i upadku.",
+        "nonsense": 0
+    },
+    {
+        "text": "Plaga komarów w rejonie osiedla Ursynów. Uciążliwość dla mieszkańców, a także ryzyko chorób odkleszczowych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak miejsc parkingowych dla osób niepełnosprawnych w centrum miasta. Utrudniony dostęp do sklepów i innych instytucji.",
+        "nonsense": 0
+    },
+    {
+        "text": "Hałas generowany przez lokalny klub nocny. Utrudnienia w zasypianiu dla mieszkańców okolicznych budynków.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie powietrza w rejonie ulicy Puławskiej. Duże stężenie szkodliwych pyłów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do Internetu w bibliotece miejskiej. Utrudnienia w korzystaniu z komputerów i innych urządzeń.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak kursów autobusowych na linii 115 od popołudnia. Utrudnienia w komunikacji dla mieszkańców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona wiata przystankowa na ulicy Spacerowej. Brak ochrony przed deszczem i wiatrem dla pasażerów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Wandalizm na placu zabaw dla dzieci. Zniszczone urządzenia zabawowe i ławki.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie wypadkiem na skrzyżowaniu ulic Batorego i Mickiewicza. Brak sygnalizacji świetlnej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak barierek ochronnych przy schodach do metra Politechnika. Ryzyko upadku dla osób starszych i niepełnosprawnych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie rzeki Wisły. Śmieci i inne zanieczyszczenia w wodzie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z odprowadzaniem wody deszczowej na ulicy Służewskiej. Podtopienia okolicznych terenów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak informacji o rozkładzie jazdy na przystanku tramwajowym. Utrudnienia dla pasażerów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu Kabackiego. Susza i wysoka temperatura powietrza.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona nawierzchnia jezdni na ulicy Puławskiej. Utrudnienia w ruchu drogowym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak miejsc parkingowych w rejonie centrum handlowego. Utrudnienia dla klientów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do Internetu w urzędzie miasta. Utrudnienia w załatwianiu spraw urzędowych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Hałas generowany przez lokalny bar. Uciążliwość dla mieszkańców okolicznych budynków.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone ławki w parku im. Jana Pawła II. Brak miejsc do siedzenia dla mieszkańców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zablokowana ścieżka rowerowa na ulicy Filtrowej przez zaparkowane samochody.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone kosze na śmieci w parku Skaryszewskim. Problem z zaśmiecaniem parku.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do wody pitnej w szkole podstawowej nr 10. Awaria dystrybutora wody.",
+        "nonsense": 0
+    },
+    {
+        "text": "Hałas generowany przez prace budowlane w godzinach nocnych na ulicy Mokotowskiej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie bezpieczeństwa na plaży nad Wisłą. Brak ratowników wodnych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Występowanie graffiti na zabytkowym budynku w centrum miasta. Zniszczenie mienia publicznego.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z łącznością telefoniczną w rejonie osiedla Włochy. Utrudnienia w komunikacji dla mieszkańców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Przepełnione kosze na śmieci na przystankach autobusowych. Brak regularnego opróżniania.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone ogrodzenie boiska szkolnego. Ryzyko wtargnięcia osób nieupoważnionych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z sygnalizacją świetlną na skrzyżowaniu ulic Marszałkowskiej i Alej Jerozolimskich. Utrudnienia w ruchu drogowym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak miejsc parkingowych dla rowerów w pobliżu stacji metra Ratusz. Utrudnienia dla rowerzystów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie powietrza spalinami samochodowymi w rejonie ulicy Żwirki i Wigury. Przekraczanie norm zanieczyszczenia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do Internetu w przychodni zdrowia. Utrudnienia w korzystaniu z e-recept.",
+        "nonsense": 0
+    },
+    {
+        "text": "Hałas generowany przez lokalny dworzec PKS. Uciążliwość dla mieszkańców okolicznych budynków.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone lampy uliczne w parku im. Pole Mokotowskie. Brak oświetlenia w godzinach wieczornych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak dostępu do toalet publicznych w centrum miasta. Utrudnienia dla turystów i mieszkańców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zaginął pies rasy golden retriever w rejonie Lasu Bielańskiego. Prośba o pomoc w odnalezieniu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z odśnieżaniem chodników w rejonie osiedla Młociny. Utrudnienia dla pieszych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone znaki drogowe na ulicy Wojska Polskiego. Utrudnienia w orientacji dla kierowców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do Internetu w bibliotece publicznej. Utrudnienia w korzystaniu z e-booków.",
+        "nonsense": 0
+    },
+    {
+        "text": "Hałas generowany przez lokalną dyskotekę. Uciążliwość dla mieszkańców okolicznych budynków.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone wyposażenie placu zabaw dla dzieci w parku im. Stefana Żeromskiego. Brak bezpieczeństwa dla dzieci.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne związane z plagą szczurów w rejonie ulicy Grochowskiej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dzikami w rejonie osiedla Wilanów. Zwierzęta niszczą ogródki i stanowią zagrożenie dla mieszkańców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie powietrza w rejonie ulicy Puławskiej. Duże stężenie szkodliwych pyłów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do Internetu w bibliotece miejskiej. Utrudnienia w korzystaniu z komputerów i innych urządzeń.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak kursów autobusowych na linii 115 od popołudnia. Utrudnienia w komunikacji dla mieszkańców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona wiata przystankowa na ulicy Spacerowej. Brak ochrony przed deszczem i wiatrem dla pasażerów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Wandalizm na placu zabaw dla dzieci. Zniszczone urządzenia zabawowe i ławki.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie wypadkiem na skrzyżowaniu ulic Batorego i Mickiewicza. Brak sygnalizacji świetlnej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak barierek ochronnych przy schodach do metra Politechnika. Ryzyko upadku dla osób starszych i niepełnosprawnych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie rzeki Wisły. Śmieci i inne zanieczyszczenia w wodzie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z odprowadzaniem wody deszczowej na ulicy Służewskiej. Podtopienia okolicznych terenów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak informacji o rozkładzie jazdy na przystanku tramwajowym. Utrudnienia dla pasażerów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu Kabackiego. Susza i wysoka temperatura powietrza.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona nawierzchnia jezdni na ulicy Puławskiej. Utrudnienia w ruchu drogowym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak miejsc parkingowych w rejonie centrum handlowego. Utrudnienia dla klientów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do Internetu w urzędzie miasta. Utrudnienia w załatwianiu spraw urzędowych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Hałas generowany przez lokalny bar. Uciążliwość dla mieszkańców okolicznych budynków.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone ławki w parku im. Jana Pawła II. Brak miejsc do siedzenia dla mieszkańców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak toalet publicznych w rejonie dworca kolejowego. Utrudnienia dla podróżnych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne związane z plagą komarów w rejonie osiedla Ursynów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dzikami w rejonie osiedla Wilanów. Zwierzęta niszczą ogródki i stanowią zagrożenie dla mieszkańców.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie powietrza w rejonie ulicy Puławskiej. Duże stężenie szkodliwych pyłów.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na skrzyżowaniu ulic Dworcowej i Spacerowej od 2 dni.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona nawierzchnia chodnika przy ulicy Parkowej stwarza zagrożenie dla pieszych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak wiaty na przystanku autobusowym przy ulicy Spokojnej naraża pasażerów na niekorzystne warunki atmosferyczne.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona barierka ochronna na moście nad rzeką Brda stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zatoka autobusowa przy ulicy Mickiewicza jest zanieczyszczona i wymaga sprzątania.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak wody w kranach w budynkach przy ulicy Klonowej od godziny 10 rano.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie wyciekiem gazu w budynku przy ulicy Sienkiewicza - wyczuwalny zapach gazu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona ławka parkowa w parku im. Jana Pawła II wymaga naprawy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Połamane gałęzie na drzewach przy ulicy Słowackiego stwarzają zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria oświetlenia ulicznego na osiedlu Leśnym - ulica Grzybowa jest nieoświetlona.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie ogródków działkowych - widoczny dym i słyszalny szum ognia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta powoduje wyciek ścieków.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznakowania na skrzyżowaniu ulic Żeromskiego i Konopnickiej stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona tablica informacyjna w parku miejskim wymaga wymiany.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych - wzrost poziomu wody w rzece.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony płot na terenie boiska szkolnego przy ulicy Orzeszkowej stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak koszy na śmieci w parku im. Kościuszki powoduje zaśmiecanie terenu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego wymaga remontu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie ulicy Rejtana - wzrost zachorowań na grypę.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona huśtawka na placu zabaw przy ulicy Prusa wymaga naprawy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Mickiewicza stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został trzeci stopień zagrożenia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza uniemożliwia płatny postój.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na ścieżce rowerowej wzdłuż ulicy Spacerowej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone kosze na śmieci w parku im. Mickiewicza - śmieci są rozrzucane po terenie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria automatu biletowego na stacji metra Centrum - niemożliwy zakup biletu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Utrudnienia w ruchu drogowym na ulicy Dworcowej - remont nawierzchni.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie szkoły podstawowej nr 1 - wzrost zachorowań na grypę.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznakowania turystycznego na szlaku w rejonie góry Zamkowej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona elewacja budynku przy ulicy 1 Maja - odpadający tynk stwarza zagrożenie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych - konieczne monitorowanie poziomu wody.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona barierka ochronna na moście nad rzeką Wisłą - konieczne naprawy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak przejścia dla pieszych na ulicy Żeromskiego - utrudniony dostęp do sklepu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu sosnowego - widoczny dym i słyszalny szum ognia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta - wyciek ścieków powoduje uciążliwości zapachowe.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na parkingu przy ulicy Konopnickiej - utrudniony dostęp do samochodu po zmroku.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona tablica informacyjna przystanku autobusowego - brak informacji o rozkładzie jazdy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie domu opieki społecznej - wzrost zachorowań na COVID-19.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony płot na terenie przedszkola przy ulicy Prusa - stwarza zagrożenie dla bezpieczeństwa dzieci.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak koszy na śmieci w parku im. Kościuszki - śmieci są rozrzucane po terenie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego - utrudniony przejazd.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został drugi stopień zagrożenia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Mickiewicza - stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został trzeci stopień zagrożenia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zatrzymany autobus na ulicy Dworcowej blokuje ruch.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznaczenia przejścia dla pieszych na ulicy Spacerowej stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia chodnika przy ulicy Parkowej utrudnia poruszanie się pieszym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria windy w bloku przy ulicy Mickiewicza utrudnia życie osobom starszym i niepełnosprawnym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie szpitala - wzrost zachorowań na grypę.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznakowania turystycznego na szlaku w rejonie góry Zamkowej utrudnia wędrówki.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona elewacja budynku przy ulicy 1 Maja - odpadający tynk stwarza zagrożenie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych - konieczne monitorowanie poziomu wody.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona barierka ochronna na moście nad rzeką Wisłą - konieczne naprawy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak przejścia dla pieszych na ulicy Żeromskiego - utrudniony dostęp do sklepu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu sosnowego - widoczny dym i słyszalny szum ognia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta - wyciek ścieków powoduje uciążliwości zapachowe.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na parkingu przy ulicy Konopnickiej - utrudniony dostęp do samochodu po zmroku.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona tablica informacyjna przystanku autobusowego - brak informacji o rozkładzie jazdy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie domu opieki społecznej - wzrost zachorowań na COVID-19.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony płot na terenie przedszkola przy ulicy Prusa - stwarza zagrożenie dla bezpieczeństwa dzieci.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak koszy na śmieci w parku im. Kościuszki - śmieci są rozrzucane po terenie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego - utrudniony przejazd.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został drugi stopień zagrożenia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Mickiewicza - stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został trzeci stopień zagrożenia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zatrzymany autobus na ulicy Dworcowej blokuje ruch.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznaczenia przejścia dla pieszych na ulicy Spacerowej stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia chodnika przy ulicy Parkowej utrudnia poruszanie się pieszym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria windy w bloku przy ulicy Mickiewicza utrudnia życie osobom starszym i niepełnosprawnym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie szpitala - wzrost zachorowań na grypę.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznakowania turystycznego na szlaku w rejonie góry Zamkowej utrudnia wędrówki.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona elewacja budynku przy ulicy 1 Maja - odpadający tynk stwarza zagrożenie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych - konieczne monitorowanie poziomu wody.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona barierka ochronna na moście nad rzeką Wisłą - konieczne naprawy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak przejścia dla pieszych na ulicy Żeromskiego - utrudniony dostęp do sklepu.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu sosnowego - widoczny dym i słyszalny szum ognia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta - wyciek ścieków powoduje uciążliwości zapachowe.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na parkingu przy ulicy Konopnickiej - utrudniony dostęp do samochodu po zmroku.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona tablica informacyjna przystanku autobusowego - brak informacji o rozkładzie jazdy.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie domu opieki społecznej - wzrost zachorowań na COVID-19.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony płot na terenie przedszkola przy ulicy Prusa - stwarza zagrożenie dla bezpieczeństwa dzieci.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak koszy na śmieci w parku im. Kościuszki - śmieci są rozrzucane po terenie.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego - utrudniony przejazd.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został drugi stopień zagrożenia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Mickiewicza - stwarza zagrożenie dla bezpieczeństwa.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych - ogłoszony został trzeci stopień zagrożenia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza - uniemożliwia płatny postój.",
+        "nonsense": 0
+    },
+    {
+        "text": "Popsuta ławka",
+        "nonsense": 0
+    },
+    {
+        "text": "Zgasła latarnia",
+        "nonsense": 0
+    },
+    {
+        "text": "Dziura w chodniku",
+        "nonsense": 0
+    },
+    {
+        "text": "Wyciek z hydrantu",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona wiata",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony kosz",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak barierek",
+        "nonsense": 0
+    },
+    {
+        "text": "Wandalizm na placu zabaw",
+        "nonsense": 0
+    },
+    {
+        "text": "Popsuta huśtawka",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona zjeżdżalnia",
+        "nonsense": 0
+    },
+    {
+        "text": "Utrudniony przejazd",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie potrącenia",
+        "nonsense": 0
+    },
+    {
+        "text": "Ryzyko upadku",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne",
+        "nonsense": 0
+    },
+    {
+        "text": "Plaga komarów",
+        "nonsense": 0
+    },
+    {
+        "text": "Wściekły pies",
+        "nonsense": 0
+    },
+    {
+        "text": "Wystąpienie dzików",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie osuwiskiem",
+        "nonsense": 0
+    },
+    {
+        "text": "Zaniedbana studzienka",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak autobusu",
+        "nonsense": 0
+    },
+    {
+        "text": "Opóźnienie pociągu",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria windy",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznakowania",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczony znak",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z biletem",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak informacji",
+        "nonsense": 0
+    },
+    {
+        "text": "Hałas z lokalu",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak internetu",
+        "nonsense": 0
+    },
+    {
+        "text": "Zakłócenia prądu",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak miejsc parkingowych",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z wywozem śmieci",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie powietrza",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona fontanna",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak toalet publicznych",
+        "nonsense": 0
+    },
+    {
+        "text": "Wypadający śmietnik",
+        "nonsense": 0
+    },
+    {
+        "text": "Zgubiona torebka",
+        "nonsense": 0
+    },
+    {
+        "text": "Rozlany olej",
+        "nonsense": 0
+    },
+    {
+        "text": "Pomoc dla bezdomnego",
+        "nonsense": 0
+    },
+    {
+        "text": "Nlegalne wysypisko",
+        "nonsense": 0
+    },
+    {
+        "text": "Wyciek gazu",
+        "nonsense": 0
+    },
+    {
+        "text": "Zalana piwnica",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie powodziowe",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona elewacja",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak wody",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z ogrzewaniem",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria sygnalizacji",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczone ogrodzenie",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia schodów",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak dostępu do apteki",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak kursów autobusu linii 115 od popołudnia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona wiata przystankowa na ulicy Spacerowej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Wandalizm na placu zabaw dla dzieci.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie wypadkiem na skrzyżowaniu ulic Batorego i Mickiewicza.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak barierek ochronnych przy schodach do metra Politechnika.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie rzeki Wisły.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z odprowadzaniem wody deszczowej na ulicy Służewskiej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak informacji o rozkładzie jazdy na przystanku tramwajowym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu Kabackiego.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona nawierzchnia jezdni na ulicy Puławskiej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak miejsc parkingowych w rejonie centrum handlowego.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do internetu w urzędzie miasta.",
+        "nonsense": 0
+    },
+    {
+        "text": "Utrudnienia w ruchu drogowym - remont ulicy Żwirki i Wigury.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia ulicznego na ulicy Długiej - niebezpiecznie w godzinach wieczornych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia chodnika na ulicy Marszałkowskiej - utrudnienia dla pieszych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak miejsc parkingowych dla osób niepełnosprawnych w centrum miasta.",
+        "nonsense": 0
+    },
+    {
+        "text": "Hałas generowany przez lokalny klub nocny - uciążliwość dla mieszkańców okolicznych budynków.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie powietrza w rejonie ulicy Grochowskiej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do Internetu w bibliotece publicznej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak kursów autobusowych na linii 115 od popołudnia.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona wiata przystankowa na ulicy Spacerowej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Wandalizm na placu zabaw dla dzieci.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie wypadkiem na skrzyżowaniu ulic Batorego i Mickiewicza.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak barierek ochronnych przy schodach do metra Politechnika.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zanieczyszczenie rzeki Wisły.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z odprowadzaniem wody deszczowej na ulicy Służewskiej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak informacji o rozkładzie jazdy na przystanku tramwajowym.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu Kabackiego.",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona nawierzchnia jezdni na ulicy Puławskiej.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak miejsc parkingowych w rejonie centrum handlowego.",
+        "nonsense": 0
+    },
+    {
+        "text": "Problem z dostępem do internetu w urzędzie miasta.",
+        "nonsense": 0
+    },
+    {
+        "text": "Utrudnienia w ruchu drogowym - remont ulicy Żwirki i Wigury.",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia ulicznego na ulicy Długiej - niebezpiecznie w godzinach wieczornych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia chodnika na ulicy Marszałkowskiej - utrudnienia dla pieszych.",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia jezdni na ulicy Dworcowej",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia na przejściu dla pieszych przy ulicy Spacerowej",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie szpitala - wzrost zachorowań na grypę",
+        "nonsense": 0
+    },
+    {
+        "text": "Utrudniony dostęp do sklepu przy ulicy Żeromskiego - brak chodnika",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu sosnowego",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak koszy na śmieci w parku im. Kościuszki",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak przejścia dla pieszych na ulicy Mickiewicza",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzony parkomat przy ulicy Sienkiewicza",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznakowania na skrzyżowaniu ulic 1 Maja i Konopnickiej",
+        "nonsense": 0
+    },
+    {
+        "text": "Zatrzymany autobus na ulicy Dworcowej blokuje ruch",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznaczenia przejścia dla pieszych na ulicy Spacerowej",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia chodnika przy ulicy Parkowej",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria windy w bloku przy ulicy Mickiewicza",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie epidemiologiczne w rejonie szpitala",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oznakowania turystycznego na szlaku w rejonie góry Zamkowej",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona elewacja budynku przy ulicy 1 Maja",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie powodziowe w rejonie wałów nadrzecznych",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona barierka ochronna na moście nad rzeką Wisłą",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak przejścia dla pieszych na ulicy Żeromskiego",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie pożarowe w rejonie lasu sosnowego",
+        "nonsense": 0
+    },
+    {
+        "text": "Uszkodzona studzienka kanalizacyjna na ulicy Reymonta",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak koszy na śmieci w parku im. Kościuszki",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczona nawierzchnia jezdni na ulicy Wyspiańskiego",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagrożenie lawinowe w rejonie górskich szlaków turystycznych",
+        "nonsense": 0
+    },
+    {
+        "text": "Remont ulicy",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak prądu",
+        "nonsense": 0
+    },
+    {
+        "text": "Zamknięty park",
+        "nonsense": 0
+    },
+    {
+        "text": "Nieczynny plac zabaw",
+        "nonsense": 0
+    },
+    {
+        "text": "Wyciek gazu",
+        "nonsense": 0
+    },
+    {
+        "text": "Zerwana linia",
+        "nonsense": 0
+    },
+    {
+        "text": "Lawina w górach",
+        "nonsense": 0
+    },
+    {
+        "text": "Silny wiatr",
+        "nonsense": 0
+    },
+    {
+        "text": "Dziki w lesie",
+        "nonsense": 0
+    },
+    {
+        "text": "Odpryski tynku",
+        "nonsense": 0
+    },
+    {
+        "text": "Połamane drzewa",
+        "nonsense": 0
+    },
+    {
+        "text": "Śmieci na skwerze",
+        "nonsense": 0
+    },
+    {
+        "text": "Zdewastowana toaleta",
+        "nonsense": 0
+    },
+    {
+        "text": "Ciemna latarnia",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak koszy",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczony chodnik",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria fontanny",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak oświetlenia",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagubiony pies",
+        "nonsense": 0
+    },
+    {
+        "text": "Wypadek na Dworcowej",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak wody na Słonecznym",
+        "nonsense": 0
+    },
+    {
+        "text": "Korek na A1",
+        "nonsense": 0
+    },
+    {
+        "text": "Remont Poniatowskiego",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria chloru na basenie",
+        "nonsense": 0
+    },
+    {
+        "text": "Pożar na 1 Maja",
+        "nonsense": 0
+    },
+    {
+        "text": "Wichura i deszcz",
+        "nonsense": 0
+    },
+    {
+        "text": "Burze w regionie",
+        "nonsense": 0
+    },
+    {
+        "text": "Lawina w górach",
+        "nonsense": 0
+    },
+    {
+        "text": "Wścieklizna u lisa",
+        "nonsense": 0
+    },
+    {
+        "text": "Graffiti na Konopnickiej",
+        "nonsense": 0
+    },
+    {
+        "text": "Połamane drzewa w Kościuszki",
+        "nonsense": 0
+    },
+    {
+        "text": "Śmieci na Sienkiewicza",
+        "nonsense": 0
+    },
+    {
+        "text": "Zdewastowana toaleta na Wyspiańskiego",
+        "nonsense": 0
+    },
+    {
+        "text": "Ciemna latarnia na Mickiewicza",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak koszy w Chopina",
+        "nonsense": 0
+    },
+    {
+        "text": "Zniszczony chodnik na Prusa",
+        "nonsense": 0
+    },
+    {
+        "text": "Awaria fontanny w Słowackiego",
+        "nonsense": 0
+    },
+    {
+        "text": "Brak światła na Reymonta",
+        "nonsense": 0
+    },
+    {
+        "text": "Zagubiony pies na Wilanowie",
+        "nonsense": 0
+    },
+    {
+        "text": "Zdjęcie zniszczeń",
+        "nonsense": 0
+    },
+    {
+        "text": "Konieczne usunięcie gałęzi",
+        "nonsense": 0
+    },
+    {
+        "text": "Prosimy o patrole",
+        "nonsense": 0
+    },
+    {
+        "text": "Nieczynna od tygodni",
+        "nonsense": 0
+    },
+    {
+        "text": "Utrudniona widoczność",
+        "nonsense": 0
+    },
+    {
+        "text": "dhafksar gdfsdsae erqwere refewq",
+        "nonsense": 1
+    },
+
+    {
+        "text": "fdsafdsa fdsafdsa fdsafdsa fdsafdsa",
+        "nonsense": 1
+    },
+    {
+        "text": "sdfhjkl asdfhjkl sdfhjkl asdfhjkl",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewq lkjhgfdsa mnbvcxzasdf",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbnm, qwertyuiop, asdfghjkl;",
+        "nonsense": 1
+    },
+    {
+        "text": "hjklsdf hjasdf hasdfjk hasdfjk",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhjkljhlkjlkhjlh lkjhjklhjlkjhkl",
+        "nonsense": 1
+    },
+    {
+        "text": "ertyuiop ertyuiop ertyuiop ertyuiop",
+        "nonsense": 1
+    },
+    {
+        "text": "fhjkl; fhjkl; fhjkl; fhjkl;",
+        "nonsense": 1
+    },
+    {
+        "text": "lkhjkljlkjhlkjhljkhjlkjh lkjhkjlk",
+        "nonsense": 1
+    },
+    {
+        "text": "ljkasdhf ljasdhf ljaskdhf laskjdhf",
+        "nonsense": 1
+    },
+    {
+        "text": "kjhasdfk jhaskjdfh kajshdf kajshd",
+        "nonsense": 1
+    },
+    {
+        "text": "dsafhjkldasfhjkl asdfhjk asdfhjkl",
+        "nonsense": 1
+    },
+    {
+        "text": "qwertyu qwertyu qwertyu qwertyu",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbnm zxcvbnm zxcvbnm zxcvbnm",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuyt poiuyt poiuyt poiuyt",
+        "nonsense": 1
+    },
+    {
+        "text": "ljkh lkjh lkj lkj",
+        "nonsense": 1
+    },
+    {
+        "text": "hjasdf hjkasdf hjkasdf hjkasdf",
+        "nonsense": 1
+    },
+    {
+        "text": "sdfgh sdfgh sdfgh sdfgh",
+        "nonsense": 1
+    },
+    {
+        "text": "fdsa fdsa fdsa fdsa",
+        "nonsense": 1
+    },
+    {
+        "text": "jkjkl jkjk jkl jkl",
+        "nonsense": 1
+    },
+    {
+        "text": "dfghjk dfghj dfgh dfgh",
+        "nonsense": 1
+    },
+    {
+        "text": "jkl; jkl; jkl; jkl;",
+        "nonsense": 1
+    },
+    {
+        "text": "sdfghjkl sdfghjkl sdfghjkl sdfghjkl",
+        "nonsense": 1
+    },
+    {
+        "text": "qwertyuiop qwertyuiop qwertyuiop qwertyuiop",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbnm, zxcvbnm, zxcvbnm, zxcvbnm,",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewq, poiuytrewq, poiuytrewq, poiuytrewq,",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsa, lkjhgfdsa, lkjhgfdsa, lkjhgfdsa,",
+        "nonsense": 1
+    },
+    {
+        "text": "asdfghjkl, asdfghjkl, asdfghjkl, asdfghjkl,",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhlkjhlkjh lkjhkljh lkjhkljhlk",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewq poiuytrewq poiuytrewq poiuytrewq",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsa lkjhgfdsa lkjhgfdsa lkjhgfdsa",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbnm zxcvbnm zxcvbnm zxcvbnm",
+        "nonsense": 1
+    },
+    {
+        "text": "qazwsx qazwsx qazwsx qazwsx",
+        "nonsense": 1
+    },
+    {
+        "text": "edcrfv edcrfv edcrfv edcrfv",
+        "nonsense": 1
+    },
+    {
+        "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
+        "nonsense": 1
+    },
+    {
+        "text": "ujmik, ujmik, ujmik, ujmik,",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
+        "nonsense": 1
+    },
+    {
+        "text": "dfghj dfghj dfghj dfghj",
+        "nonsense": 1
+    },
+    {
+        "text": "kljhlkjh kljhkljhl kjhkljhlk",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuyt poiuyt poiuyt poiuyt",
+        "nonsense": 1
+    },
+    {
+        "text": "qazwsx qazwsx qazwsx qazwsx",
+        "nonsense": 1
+    },
+    {
+        "text": "edcrfv edcrfv edcrfv edcrfv",
+        "nonsense": 1
+    },
+    {
+        "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
+        "nonsense": 1
+    },
+    {
+        "text": "ujmik, ujmik, ujmik, ujmik,",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
+        "nonsense": 1
+    },
+    {
+        "text": "dfghj dfghj dfghj dfghj",
+        "nonsense": 1
+    },
+    {
+        "text": "kljhlkjh kljhkljhl kjhkljhlk",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuyt poiuyt poiuyt poiuyt",
+        "nonsense": 1
+    },
+    {
+        "text": "qazwsx qazwsx qazwsx qazwsx",
+        "nonsense": 1
+    },
+    {
+        "text": "edcrfv edcrfv edcrfv edcrfv",
+        "nonsense": 1
+    },
+    {
+        "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
+        "nonsense": 1
+    },
+    {
+        "text": "ujmik, ujmik, ujmik, ujmik,",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
+        "nonsense": 1
+    },
+    {
+        "text": "dfghj dfghj dfghj dfghj",
+        "nonsense": 1
+    },
+    {
+        "text": "kljhlkjh kljhkljhl kjhkljhlk",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuyt poiuyt poiuyt poiuyt",
+        "nonsense": 1
+    },
+    {
+        "text": "qazwsx qazwsx qazwsx qazwsx",
+        "nonsense": 1
+    },
+    {
+        "text": "edcrfv edcrfv edcrfv edcrfv",
+        "nonsense": 1
+    },
+    {
+        "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
+        "nonsense": 1
+    },
+    {
+        "text": "ujmik, ujmik, ujmik, ujmik,",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
+        "nonsense": 1
+    },
+    {
+        "text": "dfghj dfghj dfghj dfghj",
+        "nonsense": 1
+    },
+    {
+        "text": "kljhlkjh kljhkljhl kjhkljhlk",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuyt poiuyt poiuyt poiuyt",
+        "nonsense": 1
+    },
+    {
+        "text": "qazwsx qazwsx qazwsx qazwsx",
+        "nonsense": 1
+    },
+    {
+        "text": "edcrfv edcrfv edcrfv edcrfv",
+        "nonsense": 1
+    },
+    {
+        "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
+        "nonsense": 1
+    },
+    {
+        "text": "ujmik, ujmik, ujmik, ujmik,",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
+        "nonsense": 1
+    },
+    {
+        "text": "dfghj dfghj dfghj dfghj",
+        "nonsense": 1
+    },
+    {
+        "text": "kljhlkjh kljhkljhl kjhkljhlk",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuyt poiuyt poiuyt poiuyt",
+        "nonsense": 1
+    },
+    {
+        "text": "qazwsx qazwsx qazwsx qazwsx",
+        "nonsense": 1
+    },
+    {
+        "text": "edcrfv edcrfv edcrfv edcrfv",
+        "nonsense": 1
+    },
+    {
+        "text": "tgbnhy tgbnhy tgbnhy tgbnhy",
+        "nonsense": 1
+    },
+    {
+        "text": "ujmik, ujmik, ujmik, ujmik,",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbn zxcvbn zxcvbn zxcvbn",
+        "nonsense": 1
+    },
+    {
+        "text": "dfghj dfghj dfghj dfghj",
+        "nonsense": 1
+    },
+    {
+        "text": "aadd aadd aaad daaa",
+        "nonsense": 1
+    },
+    {
+        "text": "qwert qwert qwert qwert",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvb zxcvb zxcvb zxcvb",
+        "nonsense": 1
+    },
+    {
+        "text": "12345 12345 12345 12345",
+        "nonsense": 1
+    },
+    {
+        "text": "67890 67890 67890 67890",
+        "nonsense": 1
+    },
+    {
+        "text": "qwertyuiop[]qwertyuiop[]",
+        "nonsense": 1
+    },
+    {
+        "text": "asdfghjkl;'asdfghjkl;'",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbnm,./zxcvbnm,./",
+        "nonsense": 1
+    },
+    {
+        "text": "QWERTYUIOP[]QWERTYUIOP[]",
+        "nonsense": 1
+    },
+    {
+        "text": "ASDFGHJKL;'ASDFGHJKL;'",
+        "nonsense": 1
+    },
+    {
+        "text": "ZXCVBNM,./ZXCVBNM,./",
+        "nonsense": 1
+    },
+    {
+        "text": "12345678901234567890",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuYTREWQpoiuYTREWQ",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhGFDSAlkjhGFDSA",
+        "nonsense": 1
+    },
+    {
+        "text": "mnbvcXZLKmnbvcXZLK",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewqpoiuytrewq",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsalkjhgfdsa",
+        "nonsense": 1
+    },
+    {
+        "text": "mnbvcxzlkmnbvcxzlk",
+        "nonsense": 1
+    },
+    {
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "nonsense": 1
+    },
+    {
+        "text": "abcdefghijklmnopqrstuvwxyz",
+        "nonsense": 1
+    },
+    {
+        "text": "01234567890123456789",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewqLKJHGFDSAPOIUYTREWQ",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsazxcvbnm;LKJHGFDSAZXCVBNM;",
+        "nonsense": 1
+    },
+    {
+        "text": "mnbvcxzlkjhgfdsapoiuytrewq",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewqLKJHGFDSAPOIUYTREWQ",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsazxcvbnm;LKJHGFDSAZXCVBNM;",
+        "nonsense": 1
+    },
+    {
+        "text": "mnbvcxzlkjhgfdsapoiuytrewq",
+        "nonsense": 1
+    },
+    {
+        "text": "1234567890-=1234567890-=",
+        "nonsense": 1
+    },
+    {
+        "text": "qwertyuiop[]\\qwertyuiop[]\\",
+        "nonsense": 1
+    },
+    {
+        "text": "asdfghjkl;'\\asdfghjkl;'\\",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbnm,./zxcvbnm,./",
+        "nonsense": 1
+    },
+    {
+        "text": "QWERTYUIOP[]\\QWERTYUIOP[]\\",
+        "nonsense": 1
+    },
+    {
+        "text": "ASDFGHJKL;'\\ASDFGHJKL;'\\",
+        "nonsense": 1
+    },
+    {
+        "text": "ZXCVBNM,./ZXCVBNM,./",
+        "nonsense": 1
+    },
+    {
+        "text": "1234567890`1234567890`",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewqpoiuytrewq",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsalkjhgfdsa",
+        "nonsense": 1
+    },
+    {
+        "text": "mnbvcxzlkmnbvcxzlk",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewqpoiuytrewq",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsalkjhgfdsa",
+        "nonsense": 1
+    },
+    {
+        "text": "mnbvcxzlk",
+        "nonsense": 1
+    },
+    {
+        "text": "!@#$%^&*()_+=-!@#$%^&*()_+=-",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewqLKJHGFDSAPOIUYTREWQ",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsazxcvbnm;LKJHGFDSAZXCVBNM;",
+        "nonsense": 1
+    },
+    {
+        "text": "mnbvcxzlkjhgfdsapoiuytrewq",
+        "nonsense": 1
+    },
+    {
+        "text": "poiuytrewqLKJHGFDSAPOIUYTREWQ",
+        "nonsense": 1
+    },
+    {
+        "text": "lkjhgfdsazxcvbnm;LKJHGFDSAZXCVBNM;",
+        "nonsense": 1
+    },
+    {
+        "text": "mnbvcxzlkjhgfdsapoiuytrewq",
+        "nonsense": 1
+    },
+    {
+        "text": "!@#$%^&*()_+=-!@#$%^&*()_+=-",
+        "nonsense": 1
+    },
+    {
+        "text": "1234567890-=1234567890-=",
+        "nonsense": 1
+    },
+    {
+        "text": "qwertyuiop[]\\qwertyuiop[]\\",
+        "nonsense": 1
+    },
+    {
+        "text": "asdfghjkl;'\\asdfghjkl;'\\",
+        "nonsense": 1
+    },
+    {
+        "text": "zxcvbnm,./zxcvbnm,./",
+        "nonsense": 1
+    },
+    {
+        "text": "QWERTYUIOP[]\\QWERTYUIOP[]\\",
+        "nonsense": 1
+    },
+    {
+        "text": "ASDFGHJKL;'\\ASDFGHJKL;'\\",
+        "nonsense": 1
+    },
+    {
+        "text": "ZXCVBNM,./ZXCVBNM,./",
+        "nonsense": 1
+    },
+    {
+        "text": "1234567890`1234567890`",
+        "nonsense": 1
+    },
+    {
+        "text": "zoSr278ZjFgGDM",
+        "nonsense": 1
+    },
+    {
+        "text": "v28CHt8g3AVCDLxeO4z8",
+        "nonsense": 1
+    },
+    {
+        "text": "HjLKmcg5UW88ZFv290goDTBF",
+        "nonsense": 1
+    },
+    {
+        "text": "tusDsCnc32 Jo4KybRHFvcJ5zCL",
+        "nonsense": 1
+    },
+    {
+        "text": "zjE3vWScMInM",
+        "nonsense": 1
+    },
+    {
+        "text": "gb akgse EFjOQn5w6IuiNn3uwZ",
+        "nonsense": 1
+    },
+    {
+        "text": "DaWD`tYti6p89N0XbJ4PB",
+        "nonsense": 1
+    },
+    {
+        "text": "UuPwc4bnX36StaEcoHTaoO9a",
+        "nonsense": 1
+    },
+    {
+        "text": "9rUgAsMhTFzJoIW",
+        "nonsense": 1
+    },
+    {
+        "text": "W8K1EbGZhb4mlQYXYUx2gRBiA",
+        "nonsense": 1
+    },
+    {
+        "text": "qdZMyr3k2Ah xv",
+        "nonsense": 1
+    },
+    {
+        "text": "xhbXXwyEWB",
+        "nonsense": 1
+    },
+    {
+        "text": "z`HEnKhGE9",
+        "nonsense": 1
+    },
+    {
+        "text": "2QIkJs2RQ wT",
+        "nonsense": 1
+    },
+    {
+        "text": "0pAUE2QttbhJHrLcY6pMEZ",
+        "nonsense": 1
+    },
+    {
+        "text": "kAyu`vcScVtz",
+        "nonsense": 1
+    },
+    {
+        "text": "ifD4NkOOHsBNU6",
+        "nonsense": 1
+    },
+    {
+        "text": "pafVFxrKG1y5oETirCdcsEGrP2B",
+        "nonsense": 1
+    },
+    {
+        "text": "eC21T54bj7",
+        "nonsense": 1
+    },
+    {
+        "text": "lw6TfQ4WOmsEygTaNS0G57Mn0xGM",
+        "nonsense": 1
+    },
+    {
+        "text": "JoWyr6oNcYPbWiDzLj",
+        "nonsense": 1
+    },
+    {
+        "text": "k2hlZy1TV`fL1i`mW",
+        "nonsense": 1
+    },
+    {
+        "text": "JyuqUGWvQqvfQeIaJU30cdmq9FTrgF",
+        "nonsense": 1
+    },
+    {
+        "text": "oTTV7mQiFQ6ywMbOX5ZUoi",
+        "nonsense": 1
+    },
+    {
+        "text": "hXNp2mft2mnsw",
+        "nonsense": 1
+    },
+    {
+        "text": "V3noGIBCUszxPbFtMMd",
+        "nonsense": 1
+    },
+    {
+        "text": "k7YBW2EDM7oxkbD0",
+        "nonsense": 1
+    },
+    {
+        "text": "KL0tVL nRrH9DOLYP`18R",
+        "nonsense": 1
+    },
+    {
+        "text": "BnzXlS7y1u73bs6ZJE",
+        "nonsense": 1
+    },
+    {
+        "text": "flCdoGz6jIhq0ly",
+        "nonsense": 1
+    },
+    {
+        "text": " SiE813k9jbIVHq8GXUA",
+        "nonsense": 1
+    },
+    {
+        "text": "7MRId56FsFetutMQgQsh",
+        "nonsense": 1
+    },
+    {
+        "text": "YM2WyATkz6K53MHrAFX3SfV",
+        "nonsense": 1
+    },
+    {
+        "text": "GCDwcASpycZx",
+        "nonsense": 1
+    },
+    {
+        "text": "9E4rvv`eHvluA1I1sXDFC",
+        "nonsense": 1
+    },
+    {
+        "text": "LrzvCx70tZsCq",
+        "nonsense": 1
+    },
+    {
+        "text": "Zs5Uvtvk4q1LxB32igTtmvDWf",
+        "nonsense": 1
+    },
+    {
+        "text": "RHXErsOMPhh5sUx06nm3ydgncn0",
+        "nonsense": 1
+    },
+    {
+        "text": "hEQLrJIa`c5kRMsnN W",
+        "nonsense": 1
+    },
+    {
+        "text": "HWuUDfj5TR",
+        "nonsense": 1
+    },
+    {
+        "text": "T62sDNqeUM1o7HngL7 pZe88l",
+        "nonsense": 1
+    },
+    {
+        "text": "e39lIDck6AyFryHNw sV",
+        "nonsense": 1
+    },
+    {
+        "text": "9ZbfSGKhkSBOKpj5oC6CDmoqXK1",
+        "nonsense": 1
+    },
+    {
+        "text": "jFp9e r`j5jKPv",
+        "nonsense": 1
+    },
+    {
+        "text": "ywDwbCdpb5Q7K46D3aHVN2WBbepY",
+        "nonsense": 1
+    },
+    {
+        "text": "4e6Z1IG3Z2VZI4A",
+        "nonsense": 1
+    },
+    {
+        "text": "nmqqT8lH4G5s5hDqWtcGWPX",
+        "nonsense": 1
+    },
+    {
+        "text": "xteolLfmEGS1llzP8uej",
+        "nonsense": 1
+    },
+    {
+        "text": "8lK19AqZkRoW8I",
+        "nonsense": 1
+    },
+    {
+        "text": "5DFVfzffeL0ishYm8lqTfqGa6mJK",
+        "nonsense": 1
+    },
+    {
+        "text": "vZ96j56gYRCEzQ1",
+        "nonsense": 1
+    },
+    {
+        "text": "9NhsUmBSz ",
+        "nonsense": 1
+    },
+    {
+        "text": "sgl3cyC1svnVvdwY",
+        "nonsense": 1
+    },
+    {
+        "text": "EUGmMMh7MOntu7fP`TdZ",
+        "nonsense": 1
+    },
+    {
+        "text": "cdJs`ihSOF69pggoOhJbK5WRLq0fqP",
+        "nonsense": 1
+    },
+    {
+        "text": "jW10wsUagHP19t",
+        "nonsense": 1
+    },
+    {
+        "text": "H`WzITefnfyRChM4fTC`knqFQ10Mp",
+        "nonsense": 1
+    },
+    {
+        "text": "MEceND7k73z6BriRi3xpXJoLrftL",
+        "nonsense": 1
+    },
+    {
+        "text": "GKXQw8lc59waVX03",
+        "nonsense": 1
+    },
+    {
+        "text": "W`hUxlJy5Bf6J",
+        "nonsense": 1
+    },
+    {
+        "text": "mrHUcUWHGJa6Pq",
+        "nonsense": 1
+    },
+    {
+        "text": "z4YAN0BE6fhP",
+        "nonsense": 1
+    },
+    {
+        "text": " N798dB3qEFKSLu6TN9z47W 9",
+        "nonsense": 1
+    },
+    {
+        "text": "FvogQ`x7GAAI4",
+        "nonsense": 1
+    },
+    {
+        "text": "ibb4`wzt6uXzvgJ1YlO2U`QX",
+        "nonsense": 1
+    },
+    {
+        "text": "3MgTDKrPYRDIDT",
+        "nonsense": 1
+    },
+    {
+        "text": "8vEkirxFHFpgMSrUA",
+        "nonsense": 1
+    },
+    {
+        "text": "f52Cif6dUfwsk5YI",
+        "nonsense": 1
+    },
+    {
+        "text": "KtrCHm61lwqrz3z1PKRJ3teXWfsRx",
+        "nonsense": 1
+    },
+    {
+        "text": "1VE4OBb9oGCQNHlw",
+        "nonsense": 1
+    },
+    {
+        "text": "w7hLd`Iw7yZ0DQar",
+        "nonsense": 1
+    },
+    {
+        "text": "8tZYDQfsbS9NjQ",
+        "nonsense": 1
+    },
+    {
+        "text": "5wxOcOLDZg`b9dfZeoF93g",
+        "nonsense": 1
+    },
+    {
+        "text": "1hYyOzDIzhSbNQKkuHfIWvMieWg9",
+        "nonsense": 1
+    },
+    {
+        "text": "P2kjNyjGmij55NhEQVKzAK",
+        "nonsense": 1
+    },
+    {
+        "text": "HkglEVkbOb55vE6QOItf0OQpC6QvZt",
+        "nonsense": 1
+    },
+    {
+        "text": "GQpe8BUzJb6D6gJUR",
+        "nonsense": 1
+    },
+    {
+        "text": "FBNLU2V6tDeQ7qhnbSC",
+        "nonsense": 1
+    },
+    {
+        "text": "t4aYVN3E`ZGvF4oTnpBlW",
+        "nonsense": 1
+    },
+    {
+        "text": "OHh0NaZ96POGTQ6 8l6I",
+        "nonsense": 1
+    },
+    {
+        "text": "g`vyV7hqeDroQH4",
+        "nonsense": 1
+    },
+    {
+        "text": "CnHweNlfa4Sf90xHDgLsK",
+        "nonsense": 1
+    },
+    {
+        "text": "We`LtarTsi7THVVwpAxw",
+        "nonsense": 1
+    },
+    {
+        "text": "1Xe`7OrVY34mpZ6SYF98VUl",
+        "nonsense": 1
+    },
+    {
+        "text": "2pp967`tgx2udEmJ84h",
+        "nonsense": 1
+    },
+    {
+        "text": "1pbAJCi3ytSFw",
+        "nonsense": 1
+    },
+    {
+        "text": "MD77QCOVJ7N662AbRZrXTvMufYlfb",
+        "nonsense": 1
+    },
+    {
+        "text": "nvT2YGxyWyYzowq7lbku",
+        "nonsense": 1
+    },
+    {
+        "text": "y8dq18XxrbfdHM2U6gal",
+        "nonsense": 1
+    },
+    {
+        "text": "u0Y9G4g6GynqcLnjlgZUCJ4PY1",
+        "nonsense": 1
+    },
+    {
+        "text": "nArKkS`hCglBV8sRqfcLTd",
+        "nonsense": 1
+    },
+    {
+        "text": " y93hKfS2mfUi0 rm",
+        "nonsense": 1
+    },
+    {
+        "text": "Jsoj4C2SyRghE2A9",
+        "nonsense": 1
+    },
+    {
+        "text": "nCGxvfc3sutE7LQuvj3YrAX717V6v",
+        "nonsense": 1
+    },
+    {
+        "text": "iAbuZ76gdP`Iy  q3XzKdoyfinJU9",
+        "nonsense": 1
+    },
+    {
+        "text": "JuYawAxPR1z",
+        "nonsense": 1
+    },
+    {
+        "text": "tVXRAp1hiyJQdKW3ldP",
+        "nonsense": 1
+    },
+    {
+        "text": "uWHuYzWiv3hwMSwt2hzMxkIS8I",
+        "nonsense": 1
+    },
+    {
+        "text": "RF1AN6hjpqcInm`mgaB9",
+        "nonsense": 1
+    },
+    {
+        "text": "XYoljnsBvX0Ii22EzERty",
+        "nonsense": 1
+    },
+    {
+        "text": "grz33O32m9rng9sUOo",
+        "nonsense": 1
+    },
+    {
+        "text": "qwRV20x6COiUI",
+        "nonsense": 1
+    },
+    {
+        "text": "ovF3pbMW0 80T daWbvk 13",
+        "nonsense": 1
+    },
+    {
+        "text": "tk8mO40FXkg7XskY`ks",
+        "nonsense": 1
+    },
+    {
+        "text": "`lwHhyDzxnUOm",
+        "nonsense": 1
+    },
+    {
+        "text": "DIZXIWk1dkcy",
+        "nonsense": 1
+    },
+    {
+        "text": "22w1SEe LWQMOesJ8M7PQD1 j",
+        "nonsense": 1
+    },
+    {
+        "text": "hDugXZkq9bUQ11 E9VR9",
+        "nonsense": 1
+    },
+    {
+        "text": "wkcDy5y7`6ugoTV1gHMr",
+        "nonsense": 1
+    },
+    {
+        "text": "g1rb16VtMr VzJ0cgi",
+        "nonsense": 1
+    },
+    {
+        "text": "IwgslbL`pOPdoFHTJZVEO4a9u2Vg`8",
+        "nonsense": 1
+    },
+    {
+        "text": "G3zWV`VF6CO0nteMCBD8",
+        "nonsense": 1
+    },
+    {
+        "text": "3dm8uMyIRY9oug9c3BBBII6 9OB0a",
+        "nonsense": 1
+    },
+    {
+        "text": "PP3zJYkvpiQph0WO",
+        "nonsense": 1
+    },
+    {
+        "text": "Iod5`fhpXf8 wwA53NyatwsJO",
+        "nonsense": 1
+    },
+    {
+        "text": "2eNkO63drlwHs",
+        "nonsense": 1
+    },
+    {
+        "text": "mucGi3i2ANu68n IfFSKx`IeYA3W",
+        "nonsense": 1
+    },
+    {
+        "text": "HZopGDUzT6tI",
+        "nonsense": 1
+    },
+    {
+        "text": "cQwQxA5DT4EyvISM4lYing7b",
+        "nonsense": 1
+    },
+    {
+        "text": "V8uk6SskxKUKQHlCDo4FPuyAaP s",
+        "nonsense": 1
+    },
+    {
+        "text": "acPY23FuC85dgmpukxJ",
+        "nonsense": 1
+    },
+    {
+        "text": "t7ihgalTNFvueRUPbquF4H2aFQTVI",
+        "nonsense": 1
+    },
+    {
+        "text": "YZSvMImKIQI7iD1vOFzh1`YbFFeC",
+        "nonsense": 1
+    },
+    {
+        "text": "k59VW155KaC`TQuTSqLrnYg2Cwwbv",
+        "nonsense": 1
+    },
+    {
+        "text": "s9xHdeZM3W0yWkKeA7",
+        "nonsense": 1
+    },
+    {
+        "text": "MW7wObZXCppfjOvEixof44E`JC9W",
+        "nonsense": 1
+    },
+    {
+        "text": "QbVqZtPHKc2c",
+        "nonsense": 1
+    },
+    {
+        "text": "HGR2ISJ9z0mMIwIVBPBoxCdpTHS",
+        "nonsense": 1
+    },
+    {
+        "text": "WImEOvA7uSj8vm7",
+        "nonsense": 1
+    },
+    {
+        "text": "jr2DSI2qC0Z39vQcgTr8eNN",
+        "nonsense": 1
+    },
+    {
+        "text": "WHFzGU5tiTK49J5`ULKcGoIaQ",
+        "nonsense": 1
+    },
+    {
+        "text": "Id6LpBsRyZmAi",
+        "nonsense": 1
+    },
+    {
+        "text": "JR8BsuuD4yDYK9O72k1jNjoWOKzx",
+        "nonsense": 1
+    },
+    {
+        "text": "Jh64SvBJOSd8 L",
+        "nonsense": 1
+    },
+    {
+        "text": "B8hy65bZCANlf",
+        "nonsense": 1
+    },
+    {
+        "text": "uRoT559Rh0w",
+        "nonsense": 1
+    },
+    {
+        "text": "h25OXcV5DS",
+        "nonsense": 1
+    },
+    {
+        "text": "LW59r3QyaSpqsYCPjazZSoa",
+        "nonsense": 1
+    },
+    {
+        "text": "pcoyH4dexZMZtEBdRj2SOlrxmc",
+        "nonsense": 1
+    },
+    {
+        "text": "ZUz6I8SnDWnvbsZkR9g58w",
+        "nonsense": 1
+    },
+    {
+        "text": "T8KReXUKsS7u3v4u18jT5yg62g5",
+        "nonsense": 1
+    },
+    {
+        "text": "dznl 2fJEE6HihmLukhiz0e4s6",
+        "nonsense": 1
+    },
+    {
+        "text": "x7mJOpu6gBZezRbW1yrJOC8",
+        "nonsense": 1
+    },
+    {
+        "text": "fUvqHyogw0iqe6TOIkG9X WFv4JEW",
+        "nonsense": 1
+    },
+    {
+        "text": "olZEKl0L5BtT5g",
+        "nonsense": 1
+    },
+    {
+        "text": "Kf5Pg08Q1ZMUVQ",
+        "nonsense": 1
+    },
+    {
+        "text": "ZxaUkiylNCHkCIzsKDsM TrAliO5tj",
+        "nonsense": 1
+    },
+    {
+        "text": "cHWRVP3Xfkc74uSdR1W",
+        "nonsense": 1
+    },
+    {
+        "text": "uMtn3q2GV8W3d75",
+        "nonsense": 1
+    },
+    {
+        "text": "T4qWW0sIwMyuNWgacGJ0Id",
+        "nonsense": 1
+    },
+    {
+        "text": "9GVRJXahSfX",
+        "nonsense": 1
+    },
+    {
+        "text": "oSx3uGr0U9NPJIKvZGxkMvlJiKQKmH",
+        "nonsense": 1
+    },
+    {
+        "text": "FMnoTYZSXZ",
+        "nonsense": 1
+    },
+    {
+        "text": "z8x4zO9CQ6ur72 qmEZb",
+        "nonsense": 1
+    },
+    {
+        "text": "9 LLTWpDQ4qz",
+        "nonsense": 1
+    },
+    {
+        "text": "PDXBXuzDkLAZjIP6XKyIA9Kjw",
+        "nonsense": 1
+    },
+    {
+        "text": "CJjhvumNzaPc",
+        "nonsense": 1
+    },
+    {
+        "text": " J4KhwXvDw0X",
+        "nonsense": 1
+    },
+    {
+        "text": "xAy3mscGnZs47",
+        "nonsense": 1
+    },
+    {
+        "text": "4u2g7C713YtrL934HO6",
+        "nonsense": 1
+    },
+    {
+        "text": "UZBX3emUMI",
+        "nonsense": 1
+    },
+    {
+        "text": "5l`4zDJKh7xTseH5czzfiQWuH1",
+        "nonsense": 1
+    },
+    {
+        "text": "TgH1znI9KOpzL2",
+        "nonsense": 1
+    },
+    {
+        "text": "5i9 xq15XNDZkd0biI tHFAQjb",
+        "nonsense": 1
+    },
+    {
+        "text": "W1GNQa6Dkc",
+        "nonsense": 1
+    },
+    {
+        "text": "Ul5sLT3TJMfsZ1SXuk7 9tDe",
+        "nonsense": 1
+    },
+    {
+        "text": "uHaOJekstkndJx5h",
+        "nonsense": 1
+    },
+    {
+        "text": "sDXS8lhVQcQktLX9mBIf0MfnaNe",
+        "nonsense": 1
+    },
+    {
+        "text": "HsOnm8t4AQsq8wjldLsOFvG",
+        "nonsense": 1
+    },
+    {
+        "text": "S5BGGH4caa3yll",
+        "nonsense": 1
+    },
+    {
+        "text": "bTcPplseccMeWZ2phnCpzqD",
+        "nonsense": 1
+    },
+    {
+        "text": "7EA5cxmuZ vP",
+        "nonsense": 1
+    },
+    {
+        "text": "18JZKvDumQME",
+        "nonsense": 1
+    },
+    {
+        "text": "76HNu42iygNF",
+        "nonsense": 1
+    },
+    {
+        "text": "qAE6opXKoC`5",
+        "nonsense": 1
+    },
+    {
+        "text": "NEPxpaslvClbp82Y dn",
+        "nonsense": 1
+    },
+    {
+        "text": "18DC9kd3ljvMc1",
+        "nonsense": 1
+    },
+    {
+        "text": "fDJX3sJIkc",
+        "nonsense": 1
+    },
+    {
+        "text": "EHJw5GkAF0kf1Rgtvo1H64",
+        "nonsense": 1
+    },
+    {
+        "text": "k0IHtgWQQ1fPwk`Fc`M0",
+        "nonsense": 1
+    },
+    {
+        "text": "rrUARPm6ng1aQ43eBQB",
+        "nonsense": 1
+    },
+    {
+        "text": "Lq ReRTqmlXYgV`",
+        "nonsense": 1
+    },
+    {
+        "text": "NWGT7hWhVe2eDjRaGk0",
+        "nonsense": 1
+    },
+    {
+        "text": "yR96xUbmPn1ByRX6BgDFn",
+        "nonsense": 1
+    },
+    {
+        "text": "k6Jq1sP1UFBbI0ll",
+        "nonsense": 1
+    },
+    {
+        "text": "e3ORZ 9gSsAm8SbmV",
+        "nonsense": 1
+    },
+    {
+        "text": "GONShUpNXROFKc96h",
+        "nonsense": 1
+    },
+    {
+        "text": "EW1evD6YuS9F3XqfG",
+        "nonsense": 1
+    },
+    {
+        "text": "x lyMh2Cjb82m9eMdwXr 6fLAs",
+        "nonsense": 1
+    },
+    {
+        "text": "uMU3SnbqwDqiZHxV1O2d",
+        "nonsense": 1
+    },
+    {
+        "text": "vp3HntfsX5k",
+        "nonsense": 1
+    },
+    {
+        "text": "yvEbqbOTY9IgDHsI0w1",
+        "nonsense": 1
+    },
+    {
+        "text": "OJRehBkwXAbisHeyubn",
+        "nonsense": 1
+    },
+    {
+        "text": "hljVMQDVD9jJAMlS5Ap9U",
+        "nonsense": 1
+    },
+    {
+        "text": "rwRXUjghxNgNqD5PyG1DyJb`",
+        "nonsense": 1
+    },
+    {
+        "text": "Hc3DDOhHjAtqJSgR9a070vG7hmDn",
+        "nonsense": 1
+    },
+    {
+        "text": "gcEpaR7aSQdGySMR5aD",
+        "nonsense": 1
+    },
+    {
+        "text": "Rd2`Ik5rAvAIL0qDmKngkv5cGk`Vd",
+        "nonsense": 1
+    },
+    {
+        "text": "M6uHxyLUfHU",
+        "nonsense": 1
+    },
+    {
+        "text": "XnKdtz0bzPiXAswgngNQIHYME",
+        "nonsense": 1
+    }
 ]
